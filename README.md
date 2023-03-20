@@ -6,6 +6,7 @@
 - 😄 Pronouns: He/Him.
 - 📫 How to reach me: <a href="mailto:abdulfikihk@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/abdul-fikih-kurnia-861460205/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   <a href="https://www.instagram.com/abdfikih/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+- ⚡: Click this -> [My Website](https://www.abdfikih.site/)
 
 ## Tech Stack
 
