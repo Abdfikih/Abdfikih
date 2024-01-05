@@ -1,8 +1,7 @@
 # Hi there. I am Fikih 👋 . Welcome to my Profile!!! ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=abdfikih.repoName)
 
 - 🔭 I am currently undegraduate in University of Indonesia.
-- 🌱 Currently learning : JavaScript, Python, and Machine Learning.
-- 💬 Ask me about: JavaScript, React, CSS.
+- 🌱 Currently learning : Development Application, Data Analyst, AI and Machine Learning.
 - 😄 Pronouns: He/Him.
 - 📫 How to reach me: <a href="mailto:abdulfikihk@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/abdul-fikih-kurnia-861460205/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   <a href="https://www.instagram.com/abdfikih/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
@@ -13,6 +12,7 @@
 <p>
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" />
@@ -30,6 +30,13 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />  
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="ASP NET" src="https://img.shields.io/badge/ASP.NET-%235C2D91.svg?style=flat-square&logo=.net&logoColor=white" />
+  <img alt="ROS" src="https://img.shields.io/badge/ROS-%23222322.svg?style=flat-square&logo=ros&logoColor=white" />
+  <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white" />
 
 </p>
 
